@@ -1,0 +1,3 @@
+id, angle, height
+[]
+waga 1: 0.7, waga 2: 0.3, wynik: NaN
